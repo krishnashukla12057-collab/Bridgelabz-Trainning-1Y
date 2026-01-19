@@ -1,0 +1,5 @@
+class Bridgelabz{
+public static void main(string){
+system.in.println("Welcome to Bridgelabz!");
+}
+}
