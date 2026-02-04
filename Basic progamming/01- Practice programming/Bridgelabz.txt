@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+class Bridgelabz{
+public static void main(string){
+system.in.println("Welcome to Bridgelabz!");
+}
+=======
+class Bridgelabz{
+public static void main(string){
+system.in.println("Welcome to Bridgelabz!");
+}
+>>>>>>> 8e326109878d3900b27086318ee0a2d57e66b251
+}
