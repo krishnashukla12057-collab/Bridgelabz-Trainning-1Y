@@ -1,4 +1,5 @@
 package com.gla.polymorphism;
 
-public class Calculator {
+public class Calculator{
+
 }
