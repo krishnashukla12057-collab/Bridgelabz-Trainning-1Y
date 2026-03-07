@@ -9,15 +9,8 @@ class BMIUsing2DArray {
         // a. Take input for number of persons
         System.out.print("Enter number of persons: ");
         int number = sc.nextInt();
-
-        // b. Create 2D array and status array
-        // personData[i][0] -> weight
-        // personData[i][1] -> height
-        // personData[i][2] -> BMI
         double[][] personData = new double[number][3];
         String[] weightStatus = new String[number];
-
-        // c. Take input with validation
         for (int i = 0; i < number; i++) {
             System.out.println("\nEnter details of Person " + (i + 1));
 
