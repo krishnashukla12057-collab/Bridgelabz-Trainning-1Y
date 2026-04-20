@@ -7,7 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/05-Submission of The String API" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Basic progamming" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Methods.zip" isTestSource="false" packagePrefix="com.gla.methods" />
+      <sourceFolder url="file://$MODULE_DIR$/Story based problems" isTestSource="false" packagePrefix="SmartLibrarySystem" />
       <sourceFolder url="file://$MODULE_DIR$/exception handling" isTestSource="false" packagePrefix="ExceptionHandling" />
+      <sourceFolder url="file://$MODULE_DIR$/inheritance zip" isTestSource="false" packagePrefix="com.gla.Inheritance" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
